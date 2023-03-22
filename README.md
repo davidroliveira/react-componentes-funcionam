@@ -74,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 https://react-icons.github.io/react-icons/search?q=close
 
 Comando npm install react-icons --save
+
+### Uso da biblioteca hex-to-rgba
+
+https://www.npmjs.com/package/hex-to-rgba
