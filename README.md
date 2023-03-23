@@ -78,3 +78,7 @@ Comando npm install react-icons --save
 ### Uso da biblioteca hex-to-rgba
 
 https://www.npmjs.com/package/hex-to-rgba
+
+### Uso da biblioteca uuid
+
+https://www.npmjs.com/package/uuid
